@@ -84,32 +84,6 @@ Firebase Security Rules
 
 JWT (optional if integrating Node backend later)
 
-📂 Project Structure
-Arogvo/
- ├── app/
- │    ├── components/
- │    ├── screens/
- │    ├── hooks/
- │    ├── assets/
- │    ├── navigation/
- │    └── utils/
- │
- ├── firebase/
- │    ├── config.js
- │    ├── auth.js
- │    ├── database.js
- │    └── storage.js
- │
- ├── assets/
- │    └── screenshots/
- │         ├── login.png
- │         ├── home.png
- │         ├── doctor-search.png
- │         ├── appointment.png
- │         ├── records.png
- │         └── health-tracker.png
- │
- └── README.md
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
@@ -139,18 +113,21 @@ npm run ios       # for iOS
 
 ## 📸 Screenshots
 
-### 🔹 Login & Signup
-![Login Screen](/assets/screenshots/login%20Screenshot.jpg)  
-![Signup Screen](/assets/screenshots/Signup%20Screenshot.jpg)
+### 🔹 Login & Signup 
+<img src="/assets/screenshots/login Screenshot.jpg" width="300" />  
+<img src="/assets/screenshots/Signup Screenshot.jpg" width="300" />
 
 ### 🔹 Home Dashboard 
-![Home Screen](/assets/screenshots/Homepage1%20Screenshot.jpg)
+<img src="/assets/screenshots/Homepage1 Screenshot.jpg" width="300" />
 
-![Doctor Search](/assets/screenshots/home2%20screenshot.jpg)
+### 🔹 Services
+<img src="/assets/screenshots/home2 screenshot.jpg" width="300" />
 
-![Appointment](/assets/screenshots/home3%20screenshot.jpg)
+### 🔹 Doctor Search
+<img src="/assets/screenshots/home3 screenshot.jpg" width="300" />
 
-![Health Records](/assets/screenshots/home4%20screenshot.jpg)
+### 🔹 Records
+<img src="/assets/screenshots/home4 screenshot.jpg" width="300" />
 
 🚀 Deployment
 
