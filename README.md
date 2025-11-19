@@ -114,20 +114,20 @@ npm run ios       # for iOS
 ## 📸 Screenshots
 
 ### 🔹 Login & Signup 
-<img src="/assets/screenshots/login Screenshot.jpg" width="300" />  
-<img src="/assets/screenshots/Signup Screenshot.jpg" width="300" />
+<img src="/assets/screenshots/login Screenshot.jpg" width="100" />  
+<img src="/assets/screenshots/Signup Screenshot.jpg" width="100" />
 
 ### 🔹 Home Dashboard 
-<img src="/assets/screenshots/Homepage1 Screenshot.jpg" width="300" />
+<img src="/assets/screenshots/Homepage1 Screenshot.jpg" width="100" />
 
 ### 🔹 Services
-<img src="/assets/screenshots/home2 screenshot.jpg" width="300" />
+<img src="/assets/screenshots/home2 screenshot.jpg" width="100" />
 
 ### 🔹 Doctor Search
-<img src="/assets/screenshots/home3 screenshot.jpg" width="300" />
+<img src="/assets/screenshots/home3 screenshot.jpg" width="100" />
 
 ### 🔹 Records
-<img src="/assets/screenshots/home4 screenshot.jpg" width="300" />
+<img src="/assets/screenshots/home4 screenshot.jpg" width="100" />
 
 🚀 Deployment
 
