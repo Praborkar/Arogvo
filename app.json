@@ -1,0 +1,65 @@
+{
+  "expo": {
+    "name": "Arogvo",
+    "slug": "Arogvo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "arogvo",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+
+    "ios": {
+      "supportsTablet": true
+    },
+
+    "android": {
+      "package": "com.prabor.arogvo",
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/images/android-icon-foreground.png",
+        "backgroundImage": "./assets/images/android-icon-background.png",
+        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ],
+      "expo-web-browser"
+    ],
+
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "41a3835f-d7d6-48d6-862a-b3eac352be30"
+      },
+
+      "googleClientId": {
+        "expo": "423564587252-kr3baq312hajer3or4veafp04eo373t2.apps.googleusercontent.com",
+        "android": "423564587252-mij0t3q74qs8gbvbtb8rd6n8u0165m4d.apps.googleusercontent.com",
+        "web": "423564587252-kr3baq312hajer3or4veafp04eo373t2.apps.googleusercontent.com"
+      }
+    }
+  }
+}
